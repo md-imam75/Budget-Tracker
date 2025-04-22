@@ -7,7 +7,6 @@ A simple Python-based budget tracker that allows users to manage their monthly e
 - View the total budget and remaining balance.
 - View expenses and summaries for different months.
 - Reset all data.
-- Edit budget for the current month.
 
 ## Requirements
 - Python 3.x
